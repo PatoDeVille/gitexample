@@ -1,1 +1,16 @@
-aqui hice mis cosas y demas
+pongo mas cosass
+solo para generar otro merge confliconst 
+ = async () => {
+try {
+setLoading(true)
+
+if (err) throw err
+
+}
+catch (err) {
+alert(err.message)
+}
+finally {
+setLoading(false)
+}
+};
